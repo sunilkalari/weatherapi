@@ -24,10 +24,10 @@ Sample response example of JSON data object:
 ```
 
 ## Requirements:
-The `REST` service expose the `/weather` endpoint:
+The `REST` service to fetch weather data
 
 
-`GET` request to `/select`:
+`GET` request to `/weather`:
 * the response code is 200
 * the response body is description for records
 
